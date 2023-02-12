@@ -1,0 +1,56 @@
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.deps.json
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.dll
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csprojAssemblyReference.cache
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.AssemblyInfoInputs.cache
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.AssemblyInfo.cs
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csproj.CoreCompileInputs.cache
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.dll
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\bin\Debug\netcoreapp3.1\Project.Core.dll
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.dll
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\bin\Debug\netcoreapp3.1\Project.Core.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\PlanetAfrica\PlanetAfricaCPanel\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csproj.CopyComplete
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.deps.json
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.dll
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\bin\Debug\netcoreapp3.1\Project.Core.dll
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.dll
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\bin\Debug\netcoreapp3.1\Project.Core.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csprojAssemblyReference.cache
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.AssemblyInfoInputs.cache
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.AssemblyInfo.cs
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csproj.CoreCompileInputs.cache
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csproj.CopyComplete
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.dll
+D:\7agat el sho3'el bta3y\project\company\volume\volume_project\CRM\CRMProject\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csprojAssemblyReference.cache
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.AssemblyInfoInputs.cache
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.AssemblyInfo.cs
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csproj.CoreCompileInputs.cache
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.dll
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.deps.json
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.dll
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Core.dll
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.dll
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Core.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.pdb
+D:\7agat el sho3'el bta3y\project\company\volume\SmartTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csproj.CopyComplete
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.deps.json
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.dll
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Services.pdb
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Core.dll
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.dll
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\bin\Debug\netcoreapp3.1\Project.Core.pdb
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.pdb
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csprojAssemblyReference.cache
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.AssemblyInfoInputs.cache
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.AssemblyInfo.cs
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csproj.CoreCompileInputs.cache
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.csproj.CopyComplete
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.dll
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.Services\obj\Debug\netcoreapp3.1\Project.Services.pdb

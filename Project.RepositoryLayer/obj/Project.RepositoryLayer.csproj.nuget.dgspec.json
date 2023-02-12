@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\7agat el sho3'el bta3y\\project\\company\\templete project .NetCore\\ThreePillarsTaskGitHub\\Project.RepositoryLayer\\Project.RepositoryLayer.csproj": {}
+  },
+  "projects": {
+    "D:\\7agat el sho3'el bta3y\\project\\company\\templete project .NetCore\\ThreePillarsTaskGitHub\\Project.RepositoryLayer\\Project.RepositoryLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\7agat el sho3'el bta3y\\project\\company\\templete project .NetCore\\ThreePillarsTaskGitHub\\Project.RepositoryLayer\\Project.RepositoryLayer.csproj",
+        "projectName": "Project.RepositoryLayer",
+        "projectPath": "D:\\7agat el sho3'el bta3y\\project\\company\\templete project .NetCore\\ThreePillarsTaskGitHub\\Project.RepositoryLayer\\Project.RepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\minam\\.nuget\\packages\\",
+        "outputPath": "D:\\7agat el sho3'el bta3y\\project\\company\\templete project .NetCore\\ThreePillarsTaskGitHub\\Project.RepositoryLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

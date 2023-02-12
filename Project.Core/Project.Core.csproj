@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20230113202336_intializemigration.cs" />
+    <Compile Remove="Migrations\20230113202336_intializemigration.Designer.cs" />
+    <Compile Remove="Migrations\20230114120123_addintialrows.cs" />
+    <Compile Remove="Migrations\20230114120123_addintialrows.Designer.cs" />
+    <Compile Remove="Migrations\20230114120638_addintialrows.cs" />
+    <Compile Remove="Migrations\20230114120638_addintialrows.Designer.cs" />
+    <Compile Remove="Migrations\20230114153432_addidentityrows.cs" />
+    <Compile Remove="Migrations\20230114153432_addidentityrows.Designer.cs" />
+    <Compile Remove="Migrations\20230114154706_addidentitytable.cs" />
+    <Compile Remove="Migrations\20230114154706_addidentitytable.Designer.cs" />
+    <Compile Remove="Migrations\20230114214640_addidentitytest.cs" />
+    <Compile Remove="Migrations\20230114214640_addidentitytest.Designer.cs" />
+    <Compile Remove="Migrations\20230211202738_mymigration.cs" />
+    <Compile Remove="Migrations\20230211202738_mymigration.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

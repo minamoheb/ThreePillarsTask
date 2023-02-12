@@ -5,6 +5,7 @@ using Project.Services.ModalServices;
 using AutoMapper;
 using RepositoryLayer.UnitOfWork;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace Project.Services.Handler
 {
@@ -35,7 +36,17 @@ namespace Project.Services.Handler
             return "S" + res.Id;
         }
 
+        public async Task<JobTittleModel> getdatabyid(int id)
+        {
 
+            var data = await Repository.GetList(predicate: c => c.Id == id, null, null, true);
+            if (data.Count == 0)
+                return null;
+
+            var mappedData = _mapper.Map<JobTittleModel>(data.FirstOrDefault());
+            return mappedData;
+
+        }
 
 
     }

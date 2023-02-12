@@ -38,8 +38,7 @@ namespace Project.Services.CustomQueryServices
             var mappedData = _mapper.Map<IEnumerable<TDataModel>>(data);
             return mappedData;
         }
-
-
+ 
 
 
     }

@@ -54,6 +54,20 @@ namespace Project.Services.Handler
             return mappedData;
 
         }
+        public  async Task<AddressBookModel> getdatabyid(int id)
+        {
+
+            var data = await Repository.GetList(predicate:c=>c.Id==id, orderBy: b => b.OrderBy(c => c.BirthDate), t => t?
+                         .Include(c => c.JobTittle)
+                          .Include(c => c.Department)
+                , true);
+            if (data.Count == 0)
+                return null;
+
+            var mappedData = _mapper.Map<AddressBookModel>(data.FirstOrDefault());
+            return mappedData;
+
+        }
         public async Task<IEnumerable<AddressBookModel>> FilterData(int? jobid, int? depid, DateTime? fmdate, DateTime? todate)
         {
 

@@ -34,3 +34,12 @@ D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillars
 D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.csproj.CoreCompileInputs.cache
 D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.dll
 D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTask\ThreePillarsTask\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.pdb
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.deps.json
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.dll
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\bin\Debug\netcoreapp3.1\Project.RepositoryLayer.pdb
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.csprojAssemblyReference.cache
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.AssemblyInfoInputs.cache
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.AssemblyInfo.cs
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.dll
+D:\7agat el sho3'el bta3y\project\company\templete project .NetCore\ThreePillarsTaskGitHub\Project.RepositoryLayer\obj\Debug\netcoreapp3.1\Project.RepositoryLayer.pdb

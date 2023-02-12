@@ -68,7 +68,7 @@ namespace ThreePillarsTask.Controllers
         {
             try
             {
-                var model = await _Data.Get(id).ConfigureAwait(false);
+                var model = await _Data.getdatabyid(id).ConfigureAwait(false);
                 if (model == null) throw new Exception("id is incorrect");
                 var retdata = await _Data.Delete(model);
                 var isSuccess = retdata != "-1";

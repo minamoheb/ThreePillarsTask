@@ -28,6 +28,7 @@ using Project.Services.Handler;
 using Project.Services.Helper.ErrorHandler;
 using ThreePillarsTask.Middlewares;
 using Microsoft.OpenApi.Models;
+using RepositoryLayer.Repository;
 
 namespace ThreePillarsTask
 {
@@ -111,6 +112,7 @@ namespace ThreePillarsTask
             //services.AddScoped<UserManager>();
             #endregion
             #region *****Unit Of Work*****
+
             services.AddScoped<IUnitOfWork<SystemDBContext>, UnitOfWork<SystemDBContext>>();
             #endregion
             // Auto Mapper Configurations

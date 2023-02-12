@@ -21,45 +21,50 @@ namespace Project.Services.ModalServices
     {
         [JsonProperty("id")] public int? Id { get; set; }
 
-        [StringLength(250, ErrorMessage = "Must be between 5 and 250 characters", MinimumLength = 5)]
+        [Required(ErrorMessage = "FullName is Required")]
+        [StringLength(250, ErrorMessage = "Must be between 3 and 250 characters", MinimumLength = 3)]
         [JsonProperty("name")] 
         public string FullName { get; set; }
 
+        [Required(ErrorMessage = "JobTittle is Required")]
         [JsonProperty("jobId")] 
         public int? JobId { get; set; }
         [JsonProperty("jobName")]
         public string JobName { get; set; }
         [JsonProperty("depId")]
+
+        [Required(ErrorMessage = "Department is Required")]
         public int? DepId { get; set; }
         [JsonProperty("depName")]
         public string DepartmentName { get; set; }
 
-        [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy hh:mm:ss tt}")]
-        [JsonProperty("birthDate")] 
+        [Required(ErrorMessage = "BirthDate is Required")]
+        //[DisplayFormat(DataFormatString = "{0:dd/MM/yyyy hh:mm:ss tt}")]
+        [JsonProperty("birthDate")]
+        [JsonConverter(typeof(CustomDateTimeConverter))]
         public DateTime BirthDate { get; set; }
 
         [Range(1, 120, ErrorMessage = "Age must be between 1-120 in years.")]
         [JsonProperty("age")] 
         public int? Age { get; set; }
 
-        [Required(ErrorMessage = "Mobile Phone is Required")]
         [DataType(DataType.PhoneNumber)]
-        [RegularExpression(@"^\(?([0-9]{2})[-. ]?([0-9]{4})[-. ]?([0-9]{3})[-. ]?([0-9]{3})$", ErrorMessage = "Not a valid Phone number")]
+
         [JsonProperty("phone")]
         public string MobilePhone { get; set; }
 
-        [StringLength(250, ErrorMessage = "Must be between 5 and 250 characters", MinimumLength = 5)]
+        [StringLength(250, ErrorMessage = "Must be between 1 and 250 characters", MinimumLength = 1)]
         [JsonProperty("address")]
         public string Address { get; set; }
 
-        [Required(ErrorMessage = "Email is Required")]
+
         [DataType(DataType.EmailAddress)]
         [MaxLength(50)]
         [RegularExpression(@"[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}", ErrorMessage = "Incorrect Email Format")]
         [JsonProperty("email")]
         public string Email { get; set; }
 
-        [StringLength(250, ErrorMessage = "Must be between 5 and 250 characters", MinimumLength = 5)]
+        [StringLength(250, ErrorMessage = "Must be between 1 and 250 characters", MinimumLength = 1)]
         [DataType(DataType.Password)]
         [JsonProperty("pass")]
         public string Passowrd { get; set; }

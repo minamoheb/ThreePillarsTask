@@ -54,13 +54,12 @@ namespace Project.Services.Handler
             return mappedData;
 
         }
-        public async Task<IEnumerable<AddressBookModel>> FilterData(int? jobid, int? depid, DateTime? fmdate, DateTime? todate, string name)
+        public async Task<IEnumerable<AddressBookModel>> FilterData(int? jobid, int? depid, DateTime? fmdate, DateTime? todate)
         {
 
             Expression<Func<AddressBook, bool>> predicate = null;
             predicate = c => (c.JobId == jobid || jobid == 0)
             && (c.DepId == depid || depid == 0)
-            && (c.FullName == name || name == null)
             && ((c.BirthDate >= fmdate && c.BirthDate <= todate) || fmdate == null || todate == null);
 
             var data = await Repository.GetList(predicate, c => c.OrderByDescending(x => x.FullName), t => t?

@@ -97,13 +97,28 @@ namespace ThreePillarsTask.Controllers
             }
         }
 
-        [HttpGet, Route("/api/address/filter")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<AddressBookModel>> FilterData([FromQuery] string name,DateTime? fm, DateTime? to, int jobid = 0, int depid = 0)
+        [HttpGet, Route("{id}")]
+        public async Task<ActionResult<AddressBookModel>> Get(int id)
         {
             try
             {
-                var data = await _Data.FilterData(jobid,depid,fm,to,name).ConfigureAwait(false);
+                var data = await _Data.Get(id).ConfigureAwait(false);
+                return Ok(data);
+            }
+            catch (Exception ex)
+            {
+                throw new CustomException(ex.Message, BadRequest().StatusCode);
+            }
+        }
+
+
+        [HttpGet, Route("/api/address/filter")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        public async Task<ActionResult<AddressBookModel>> FilterData([FromQuery] DateTime? fm, DateTime? to, int jobid = 0, int depid = 0)
+        {
+            try
+            {
+                var data = await _Data.FilterData(jobid,depid,fm,to).ConfigureAwait(false);
                 return Ok(data);
             }
             catch (Exception ex)

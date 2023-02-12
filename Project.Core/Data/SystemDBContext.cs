@@ -26,7 +26,24 @@ namespace Project.Core.Data
             builder.ApplyConfiguration(new JobTittleEntityConfiguration());
             builder.ApplyConfiguration(new DepartmentEntityConfiguration());
             builder.ApplyConfiguration(new AddressBookEntityConfiguration());
+
+
+            builder.Entity<AddressBook>(entity =>
+            {
+
            
+                entity.HasOne(d => d.JobTittle)
+                    .WithMany(p => p.AddressBook)
+                    .HasForeignKey(d => d.JobId)
+                    .HasConstraintName("FK_AddressBook_JobTittle_JobTittleId");
+
+                entity.HasOne(d => d.Department)
+                    .WithMany(p => p.AddressBook)
+                    .HasForeignKey(d => d.DepId)
+                    .HasConstraintName("FK_AddressBook_Department_DepartmentId");
+
+            });
+
         }
         public DbSet<JobTittle> JobTittle { get; set; }
         public DbSet<Department> Department { get; set; }
